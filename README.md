@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="monetag" content="YOUR_MONETAG_VALUE_HERE">
-    <title>Your GitHub Pages Site</title>
+    <www.allarbaa.ng>Your GitHub Pages Site</title>Allarbaa
 </head>
 <body>
     <h1>Welcome to My GitHub Pages Site</h1>
